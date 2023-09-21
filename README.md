@@ -1,4 +1,4 @@
-Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study
+#### Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study
 ---
 <p align="center">
   <img src="cover-picture.png" width="600" height="300"/>
@@ -6,7 +6,7 @@ Representation Abstractions as Incentives for Reinforcement Learning Agents: A R
 
 The VTPRL simulator and the RL agents implementations can be found at: https://github.com/tum-i6/VTPRL
 
-Citing the Project
+##### Citing the Project
 ---
 
 To cite this repository in publications:
@@ -18,6 +18,6 @@ To cite this repository in publications:
   url     = {https://github.com/PetropoulakisPanagiotis/igae/}
 }
 ```
-Acknowledgments
+##### Acknowledgments
 ---
 
