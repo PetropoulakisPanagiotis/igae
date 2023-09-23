@@ -6,7 +6,7 @@
 
 The VTPRL simulator and RL agents implementations can be found at: https://github.com/tum-i6/VTPRL
 
-##### Citing the Project
+### Citing the Project
 ---
 
 To cite this repository in publications:
@@ -18,6 +18,6 @@ To cite this repository in publications:
   url     = {https://github.com/PetropoulakisPanagiotis/igae/}
 }
 ```
-##### Acknowledgments
+### Acknowledgments
 ---
 
