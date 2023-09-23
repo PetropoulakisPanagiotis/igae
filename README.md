@@ -1,4 +1,4 @@
-#### Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study
+## Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study
 ---
 <p align="center">
   <img src="cover-picture.png" width="600" height="350"/>
