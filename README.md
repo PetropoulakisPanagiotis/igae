@@ -11,11 +11,13 @@ The VTPRL simulator and RL agents implementations can be found at: https://githu
 
 To cite this repository in publications:
 ```bibtex
-@article{igae,
-  author  = {Panagiotis Petropoulakis, Ludwig Gräf, Josip Josifovski, Mohammadhossein Malmir, and Alois Knoll},
-  title   = {Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study},
-  year    = {2023},
-  url     = {https://github.com/PetropoulakisPanagiotis/igae/}
+@misc{petropoulakis2023representation,
+      title={Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study}, 
+      author={Panagiotis Petropoulakis and Ludwig Gräf and Josip Josifovski and Mohammadhossein Malmir and Alois Knoll},
+      year={2023},
+      eprint={2309.11984},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
 }
 ```
 ### Acknowledgments
