@@ -3,6 +3,7 @@
 <p align="center">
   <img src="cover-picture.png" width="600" height="350"/>
 </p>
+***Under construction
 
 The VTPRL simulator and RL agents implementations can be found at: https://github.com/tum-i6/VTPRL
 
