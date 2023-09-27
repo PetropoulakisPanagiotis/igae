@@ -5,7 +5,7 @@
   <img src="cover-picture.png" width="600" height="350"/>
 </p>
 
-The VTPRL simulator and RL agents implementations can be found at: https://github.com/tum-i6/VTPRL
+The VTPRL simulator and RL agents base implementations can be found at: https://github.com/tum-i6/VTPRL
 * Thank you Ludwig Gräf for your vision-based implementations
 ### Citing the Project
 ---
