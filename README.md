@@ -1,6 +1,5 @@
-## Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study
+## State Representations as Incentives for Reinforcement Learning Agents: A Sim2Real Analysis on Robotic Grasping
 ---
-<strong>***Under construction</strong>
 <p align="center">
   <img src="cover-picture.png" width="600" height="350"/>
 </p>
