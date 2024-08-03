@@ -1,5 +1,4 @@
 ## State Representations as Incentives for Reinforcement Learning Agents: A Sim2Real Analysis on Robotic Grasping
----
 Choosing an appropriate representation of the environment for the underlying decision-making process of the reinforcement learning agent is not always straightforward. The state representation should be inclusive enough to allow the agent to informatively decide on its actions and disentangled enough to simplify policy training and the corresponding sim2real transfer.
 
 Given this outlook, this work examines the effect of various representations in incentivizing the agent to solve a specific robotic task: antipodal and planar object grasping. A continuum of state representations is defined, starting from hand-crafted numerical states to encoded image-based representations, with decreasing levels of induced task-specific knowledge. The effects of each representation on the ability of the agent to solve the task in simulation and the transferability of the learned policy to the real robot are examined and compared against a model-based approach with complete system knowledge.
@@ -12,10 +11,10 @@ The results show that reinforcement learning agents using numerical states can p
 <p align="center">
   <img src="cover-picture.png" width="600" height="250"/>
 </p>
-----
 
-### Results 
 ----
+### Results 
+
 * The Unity simulator and RL agents implementations can be found at the [VTPRL](https://github.com/tum-i6/VTPRL) reposiroty. 
 
 Table I: Mean success rate across the different state representation strategies
@@ -37,9 +36,9 @@ Table II: Evaluation of autoencoder-based vision models over KNN-MSE criterion
 | AE       | 0.0459 | 0.1839 | 1.6960 | **1.4122 x 10^-6** |
 | VtS      | 0.0488 | 0.1946 | **1.6857** | 1.8881 x 10^-6 |
 
-
-### Citing the Project
 ---
+### Citing the Project
+
 
 To cite this repository in publications:
 ```bibtex
@@ -52,7 +51,8 @@ To cite this repository in publications:
       primaryClass={cs.RO}
 }
 ```
-### Acknowledgments
 ---
+### Acknowledgments
+
 * Ludwig Gräf - vision-based implementations
 
