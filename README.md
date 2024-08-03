@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="cover-picture.png" width="600" height="350"/>
+  <img src="cover-picture.png" width="600" height="250"/>
 </p>
 
 The VTPRL simulator and RL agents base implementations can be found at: https://github.com/tum-i6/VTPRL
