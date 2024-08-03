@@ -54,5 +54,5 @@ To cite this repository in publications:
 ---
 ### Acknowledgments
 
-* Ludwig Gräf - vision-based implementations
+* Ludwig Gräf: vision-based implementations
 
