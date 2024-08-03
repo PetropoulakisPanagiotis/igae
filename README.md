@@ -1,5 +1,10 @@
 ## State Representations as Incentives for Reinforcement Learning Agents: A Sim2Real Analysis on Robotic Grasping
 ---
+
+<p align="center">
+  <img src="final_video.gif" width="600" height="350"/>
+</p>
+
 <p align="center">
   <img src="cover-picture.png" width="600" height="350"/>
 </p>
