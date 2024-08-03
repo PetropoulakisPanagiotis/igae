@@ -12,11 +12,12 @@ The results show that reinforcement learning agents using numerical states can p
 <p align="center">
   <img src="cover-picture.png" width="600" height="250"/>
 </p>
-
-The Unity simulator and RL agents implementations can be found at the [VTPRL](https://github.com/tum-i6/VTPRL) reposiroty. 
-
-
 ----
+
+### Results 
+----
+* The Unity simulator and RL agents implementations can be found at the [VTPRL](https://github.com/tum-i6/VTPRL) reposiroty. 
+
 Table I: Mean success rate across the different state representation strategies
 | Strategy   | Average + Std. (Idl. Sim.) | Best Model (Idl. Sim.) | Best Model (Rnd. Sim.) | Best Model (Real) |
 |------------|-----------------------------|------------------------|------------------------|-------------------|
