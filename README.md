@@ -5,7 +5,6 @@
 </p>
 
 The VTPRL simulator and RL agents base implementations can be found at: https://github.com/tum-i6/VTPRL
-* Thank you Ludwig Gräf for your vision-based implementations
 ### Citing the Project
 ---
 
@@ -22,4 +21,5 @@ To cite this repository in publications:
 ```
 ### Acknowledgments
 ---
+* Ludwig Gräf - vision-based implementations
 
