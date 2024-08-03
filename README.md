@@ -10,6 +10,29 @@
 </p>
 
 The VTPRL simulator and RL agents base implementations can be found at: https://github.com/tum-i6/VTPRL
+
+
+----
+Table I: Mean success rate across the different state representation strategies
+| Strategy   | Average + Std. (Idl. Sim.) | Best Model (Idl. Sim.) | Best Model (Rnd. Sim.) | Best Model (Real) |
+|------------|-----------------------------|------------------------|------------------------|-------------------|
+| Ruckig     | **100%**                    | **100%**               | N/A                    | **100%**          |
+| St.        | **100%**                    | **100%**               | N/A                    | **100%**          |
+| St. (rnd.) | **100%**                    | **100%**               | N/A                    | **100%**          |
+| VtS        | 91.6% ± 2.2                 | 94%                    | 70%                    | 52%               |
+| IGAE       | 96.0% ± 2.8                 | **100%**               | 78%                    | **84%**          |
+| AE         | 82.4% ± 7.1                 | 92%                    | 70%                    | 60%               |
+| EtE        | 54.8% ± 11.0                | 78%                    | 44%                    | 24%               |
+
+
+Table II: Evaluation of autoencoder-based vision models over KNN-MSE criterion
+| Strategy | Mean   | Std.   | Max   | Min                     |
+|----------|--------|--------|-------|-------------------------|
+| IGAE     | **0.0393** | **0.1679** | 1.8883 | **1.4122 x 10^-6** |
+| AE       | 0.0459 | 0.1839 | 1.6960 | **1.4122 x 10^-6** |
+| VtS      | 0.0488 | 0.1946 | **1.6857** | 1.8881 x 10^-6 |
+
+
 ### Citing the Project
 ---
 
