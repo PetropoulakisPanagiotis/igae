@@ -53,6 +53,8 @@ To cite this repository in publications:
 ```
 ---
 ### Acknowledgments
-
-* Ludwig Gräf: vision-based implementations
-
+This work has been financially supported by A-IQ READY project, which
+has received funding within the Chips Joint Undertaking (Chips JU) - the
+Public-Private Partnership for research, development and innovation under
+Horizon Europe – and National Authorities under grant agreement No.
+101096658.
