@@ -42,13 +42,14 @@ Table II: Evaluation of autoencoder-based vision models over KNN-MSE criterion
 
 To cite this repository in publications:
 ```bibtex
-@misc{2023representation,
-      title={Representation Abstractions as Incentives for Reinforcement Learning Agents: A Robotic Grasping Case Study}, 
-      author={Panagiotis Petropoulakis and Ludwig Gräf and Josip Josifovski and Mohammadhossein Malmir and Alois Knoll},
-      year={2023},
+@article{petropoulakis2024staterepresentationsincentives,
+      title={State Representations as Incentives for Reinforcement Learning Agents: A Sim2Real Analysis on Robotic Grasping}, 
+      author={Panagiotis Petropoulakis and Ludwig Gräf and Mohammadhossein Malmir and Josip Josifovski and Alois Knoll},
+      year={2024},
       eprint={2309.11984},
       archivePrefix={arXiv},
-      primaryClass={cs.RO}
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2309.11984}, 
 }
 ```
 ---
